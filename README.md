@@ -1,6 +1,6 @@
 ﻿# FunJSAlgorithms from FreeCodeCamp
 
-A list of some solutions to some (eventually all) of the algorithms exercises from [FreeCodecamp](https://www.freecodecamp.org/)
+A list of my solutions to some (eventually all) of the algorithms exercises from [FreeCodecamp](https://www.freecodecamp.org/)
 
 FreeCodeCamp is a nonprofit community that helps people learn to code by building projects.
 
